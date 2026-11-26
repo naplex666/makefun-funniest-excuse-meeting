@@ -98,5 +98,17 @@ why you missed this meeting is obviously another meeting.
 
 **Reason:** judge criterion #4 (one tight line, no wasted words) — "another"
 adds nothing; the joke (the calendar booking you to explain your own
-absence) is untouched. Verified after the edit: 1 line, 94 chars,
+absence) is untouched. Verified after the edit: 1 line, 95 chars,
 deterministic across 2 runs.
+
+## Second revision (check gate thinking_revised, same session)
+
+**Edit:** tightened "booked me into a meeting" to "booked me a meeting" —
+same joke, one word fewer, reads just as naturally.
+
+- Before: "Can't make it — my calendar just booked me into a meeting to discuss why I missed this meeting." (95 chars)
+- After: "Can't make it — my calendar just booked me a meeting to discuss why I missed this meeting." (90 chars)
+
+**Reason:** judge criterion #4 again — "into a" is dead weight; "booked me
+a meeting" says the same thing tighter. Verified after the edit: 1 line,
+90 chars, deterministic across 2 runs.

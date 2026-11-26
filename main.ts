@@ -5,7 +5,7 @@ import { writeFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 
 const line =
-  "Can't make it — my calendar just booked me into a meeting to discuss why I missed this meeting.";
+  "Can't make it — my calendar just booked me a meeting to discuss why I missed this meeting.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
