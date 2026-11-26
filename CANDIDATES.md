@@ -80,7 +80,7 @@ time-trap punchline was too generic — one absurd claim, no second turn.
    complaint. **C ahead.**
 3. **True to office life:** D's dragging sync is felt weekly; C's calendar
    running your life is felt just as widely. Roughly tied, D a hair ahead.
-4. **Tight line:** C is 94 characters, D ~108. **C ahead.**
+4. **Tight line:** C is 95 characters, D ~108. **C ahead.**
 5. **Fresh angle:** both avoid wifi/cat/dentist. C's self-policing calendar
    is fresher than D's long meeting. **C ahead.**
 
@@ -94,7 +94,7 @@ deterministic):** cut the redundant word "another" — a meeting to discuss
 why you missed this meeting is obviously another meeting.
 
 - Before: "Can't make it — my calendar just booked me into another meeting to discuss why I missed this meeting." (101 chars)
-- After: "Can't make it — my calendar just booked me into a meeting to discuss why I missed this meeting." (94 chars)
+- After: "Can't make it — my calendar just booked me into a meeting to discuss why I missed this meeting." (95 chars)
 
 **Reason:** judge criterion #4 (one tight line, no wasted words) — "another"
 adds nothing; the joke (the calendar booking you to explain your own
